@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unnami3
+- 👋 Hi, I’m @Unnami
 - 👀 I’m interested in learning why i should code and more about coding
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on website creation
